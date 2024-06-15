@@ -43,7 +43,7 @@ During the course of the training, you'll dive deep into the following essential
 To get started with the Jendarey Technologies DevOps Engineer Bootcamp Training, simply clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/JendareyTechnogies/DevOps-Bootcamp.git
+visit our webpage below
 ```
 
 #Contact Us
